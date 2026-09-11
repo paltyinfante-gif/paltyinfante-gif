@@ -28,9 +28,9 @@ Estamos creando **Mushrun: Rebirth**, un plataformas 2D desarrollado en Godot 4 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paltyinfante-gif&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paltyinfante-gif&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
